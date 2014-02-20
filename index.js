@@ -3,9 +3,9 @@
  * Module dependencies.
  */
 
-var Emitter = require('emitter');
-var classes = require('classes');
-var events = require('events');
+var Emitter = require('component-emitter');
+var classes = require('component-classes');
+var events = require('component-events');
 
 /**
  * Expose `Input`.
